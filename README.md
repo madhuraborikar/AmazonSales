@@ -44,6 +44,4 @@ Ensure the dataset path is correct or import your dataset.
 Refresh the visuals to reflect updated data.
 Explore each section using slicers or filters to interact with visuals.
 
-👤 Author ::
-Madhu
-Aspiring Data Analyst | Power BI Enthusiast
+
